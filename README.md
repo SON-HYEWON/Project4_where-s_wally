@@ -1,6 +1,6 @@
 # 🔍 Where's Wally? with U-Net
-Image Segmentation을 통해 Wally의 위치를 찾아내고, 
-새로운 이미지가 들어와도 Wally를 찾아낼 수 있는 U-Net Model을 구축하였습니다.
+`Image Segmentation`을 통해 Wally의 위치를 찾아내고, 
+새로운 이미지가 들어와도 Wally를 찾아낼 수 있는 `U-Net Model을 구축`하였습니다.
 
 ## 1. Dataset
 [해당 링크](https://www.kaggle.com/kairess/find-waldo)의 데이터 셋을 사용했습니다. 이 데이터 셋은 다음과 같이 분류되어 있습니다.
@@ -12,7 +12,7 @@ Image Segmentation을 통해 Wally의 위치를 찾아내고,
 
 ## 2. Model structure
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/75603262/124211042-6df65600-db27-11eb-9dcb-11dc8cd0aac1.png">  
-적은 수의 데이터를 가지고도 정확한 이미지 분류를 수행하는 `U-Net Model`을 사용했습니다.
+적은 수의 데이터를 가지고도 정확한 이미지 분류를 수행하는 U-Net Model을 사용했습니다.  
 
 [이미지 출처](https://medium.com/@msmapark2/u-net-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-u-net-convolutional-networks-for-biomedical-image-segmentation-456d6901b28a)
 
