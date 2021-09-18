@@ -11,11 +11,11 @@ Image Segmentation을 통해 Wally의 위치를 찾아내고,
 * waldo_sub_labels_uint8 : wally가 있는 위치는 1, 그 외는 0으로 표시 된 확대 마스킹 이미지
 
 ## 2. Model structure
-![68747470733a2f2f6c6d622e696e666f726d6174696b2e756e692d66726569627572672e64652f70656f706c652f726f6e6e656265722f752d6e65742f752d6e65742d6172636869746563747572652e706e67](https://user-images.githubusercontent.com/75603262/124211042-6df65600-db27-11eb-9dcb-11dc8cd0aac1.png)
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/75603262/124211042-6df65600-db27-11eb-9dcb-11dc8cd0aac1.png">
 적은 수의 데이터를 가지고도 정확한 이미지 분류를 수행하는 `U-Net Model`을 사용했습니다.
 
 ## 3. Demo
-![demo](https://user-images.githubusercontent.com/75603262/124211573-4b187180-db28-11eb-9e7e-14ad13cc475b.png)
+<img width="500" alt="demo" src="https://user-images.githubusercontent.com/75603262/124211573-4b187180-db28-11eb-9e7e-14ad13cc475b.png">
 
 ## 4. Reference
 * https://github.com/bckenstler/TheresWaldo
