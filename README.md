@@ -11,8 +11,10 @@ Image Segmentation을 통해 Wally의 위치를 찾아내고,
 * waldo_sub_labels_uint8 : wally가 있는 위치는 1, 그 외는 0으로 표시 된 확대 마스킹 이미지
 
 ## 2. Model structure
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/75603262/124211042-6df65600-db27-11eb-9dcb-11dc8cd0aac1.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/75603262/124211042-6df65600-db27-11eb-9dcb-11dc8cd0aac1.png">  
 적은 수의 데이터를 가지고도 정확한 이미지 분류를 수행하는 `U-Net Model`을 사용했습니다.
+
+[이미지 출처](https://medium.com/@msmapark2/u-net-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-u-net-convolutional-networks-for-biomedical-image-segmentation-456d6901b28a)
 
 ## 3. Demo
 <img width="500" alt="demo" src="https://user-images.githubusercontent.com/75603262/124211573-4b187180-db28-11eb-9e7e-14ad13cc475b.png">
