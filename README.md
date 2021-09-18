@@ -1,6 +1,6 @@
 # 🔍 Where's Wally? with U-Net
 `Image Segmentation`을 통해 Wally의 위치를 찾아내고, 
-새로운 이미지가 들어와도 Wally를 찾아낼 수 있는 `U-Net Model을 구축`하였습니다.
+새로운 이미지가 들어와도 Wally를 찾아낼 수 있는 `U-Net Model`을 구축하였습니다.
 
 ## 1. Dataset
 [해당 링크](https://www.kaggle.com/kairess/find-waldo)의 데이터 셋을 사용했습니다. 이 데이터 셋은 다음과 같이 분류되어 있습니다.
