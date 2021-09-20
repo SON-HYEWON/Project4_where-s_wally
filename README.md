@@ -19,7 +19,10 @@
 ## 3. Demo
 <img width="500" alt="demo" src="https://user-images.githubusercontent.com/75603262/124211573-4b187180-db28-11eb-9e7e-14ad13cc475b.png">
 
-## 4. Reference
+## 4. 프로젝트 정리
+- [프로젝트 발표자료 링크](https://github.com/hyewonsonn/Project4_where-s_wally/blob/main/AI_02_%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%A8%E1%84%8B%E1%85%AF%E1%86%AB_Section4(%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC).pdf)
+
+## 5. Reference
 * https://github.com/bckenstler/TheresWaldo
 * https://www.flickr.com/photos/153621475@N06/albums/72157684946674930/with/36420949126/
 * https://www.kaggle.com/kairess/find-waldo
