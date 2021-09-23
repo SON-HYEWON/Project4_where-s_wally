@@ -24,7 +24,7 @@
 새로운 이미지가 들어왔을 때에도 모델은 Wally를 성공적으로 찾아내었습니다!
 
 ## 4. 프로젝트 정리
-- [프로젝트 발표자료 링크](https://github.com/hyewonsonn/Project4_where-s_wally/blob/main/AI_02_%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%A8%E1%84%8B%E1%85%AF%E1%86%AB_Section4(%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC).pdf)
+- [프로젝트 발표 자료 링크](https://github.com/hyewonsonn/Project4_where-s_wally/blob/main/AI_02_%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%A8%E1%84%8B%E1%85%AF%E1%86%AB_Section4(%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC).pdf)
 - [프로젝트 발표 영상 링크](https://youtu.be/kNREu3zikb4)
 
 ## 5. Reference
